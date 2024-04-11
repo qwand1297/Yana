@@ -1,0 +1,36 @@
+Стул: Chair
+Стол: Table
+Диван: Sofa
+Кровать: Bed
+Шкаф: Wardrobe
+Кресло: Armchair
+Тумбочка: Nightstand
+Полка: Shelf
+Кухонный стол: Kitchen table
+Стул-качалка: Rocking chair
+Комод: Dresser
+Зеркало: Mirror
+Пуф: Ottoman
+Шкафчик: Cabinet
+Банкетка: Bench
+Компьютерный стол: Computer desk
+Книжный шкаф: Bookcase
+Журнальный столик: Coffee table
+Табурет: Stool
+Компьютерное кресло: Office chair
+Кушетка: Chaise lounge
+Кухонный стул: Kitchen chair
+Табуретка: Footstool
+Письменный стол: Writing desk
+Письменный стол: Desk
+Стул-складной: Folding chair
+Стул-барный: Bar stool
+Детская кровать: Crib
+Стол для макияжа: Vanity table
+Табурет-хамак: Hammock chair
+Кресло-мешок: Bean bag chair
+Кушетка: Divan
+Шезлонг: Chaise longue
+Компьютерный стул: Computer chair
+Скамья: Settee
+Табурет на колесиках: Rolling stool
